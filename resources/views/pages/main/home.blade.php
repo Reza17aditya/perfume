@@ -1,4 +1,4 @@
-@extends('layout.main')
+@extends('layouts.main')
 @section('container')
     <section class="video-section">
         <video autoplay muted loop  class="background-video">
